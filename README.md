@@ -9,7 +9,7 @@ provides rich language support for the
 [Go programming language](https://go.dev/).
 
 ## Requirements
-
+тестовая строка  
 * Visual Studio Code 1.90 or newer (or editors compatible with VS Code 1.90+ APIs)
 * Go 1.21 or newer.
 
