@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Changes
 
 * Introduced quick pick separator in command `Go: Choose Go Environment` showing
-diff between options locally discovered and options available for download.
+diff between options locally discovered and options available for download. jdljgbdl
 * Added support for golangci-lint v2 ([Issue 3732](https://github.com/golang/vscode-go/issues/3732))
   * Added a new lint tool, `golangci-lint-v2`. It's added as an installable tool, so you can install it via the `Go: Install/Update Tools` command.
   * You can switch v1 and v2 per workspace by using `golangci-lint` and `golangci-lint-v2` option. You must keep the `golangci-lint` executable version on your machine to v1 for that.
